@@ -17,7 +17,7 @@ import About1 from "../../assets/Images/About1.png";
 
 
 
-// Inline Data: Lookbook & Before/After
+// Inline Data: Lookbook & Before/After 
 const galleryData = [
   { 
     id: 'g1', 
