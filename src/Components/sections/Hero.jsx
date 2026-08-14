@@ -1,7 +1,7 @@
 import { LuSparkles, LuCalendar, LuArrowRight, LuShieldCheck } from 'react-icons/lu';
 import { C, scrollToId } from '../../constants/theme';
 import { Reveal, CountUp } from '../../hooks/useReveal';
-import { GoldButton, GhostButton, LuxImage, Stars } from '../ui/Primitives';
+import { GoldButton, GhostButton, LuxImage, Stars } from '../UI/Primitives';
 
 const heroData = {
   eyebrow: "Rylo Parlour · Luxury Beauty Atelier",
