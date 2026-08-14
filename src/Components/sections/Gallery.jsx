@@ -3,15 +3,15 @@ import { LuImage as LuImageIcon, LuMoveHorizontal, LuX, LuChevronLeft, LuChevron
 import { C, scrollToId } from '../../constants/theme';
 import { Reveal } from '../../hooks/useReveal';
 import { Eyebrow, SectionTitle, SectionSub, EmptyState, LuxImage } from '../UI/Primitives';
-import gallery1 from "../../assets/images/gallery1.png";
-import gallery2 from "../../assets/images/gallery2.png";
-import gallery3 from "../../assets/images/gallery3.png";
-import gallery4 from "../../assets/images/gallery4.png";
-import gallery5 from "../../assets/images/gallery5.png";
-import gallery6 from "../../assets/images/gallery6.png";
-import gallery7 from "../../assets/images/gallery7.png";
-import gallery5Reverse from "../../assets/images/gallery5_Reverse.png";
-import About1 from "../../assets/images/about1.png";
+import gallery1 from "../../assets/Images/Gallery1.png";
+import gallery2 from "../../assets/Images/Gallery2.png";
+import gallery3 from "../../assets/Images/Gallery3.png";
+import gallery4 from "../../assets/Images/Gallery4.png";
+import gallery5 from "../../assets/Images/Gallery5.png";
+import gallery6 from "../../assets/Images/Gallery6.png";
+import gallery7 from "../../assets/Images/Gallery7.png";
+import gallery5Reverse from "../../assets/Images/Gallery5_Reverse.png";
+import About1 from "../../assets/Images/About1.png";
 
 
 
